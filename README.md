@@ -6,7 +6,7 @@ We hope that they will be a good complementary tool for learning.
 You can run directly the applets on the web:
 
 * [Principal component analysis](https://roustant.shinyapps.io/pca-app/)
-* [Linear discriminant analysis](https://roustant.shinyapps.io/fda-app/)
+* [Linear discriminant analysis](https://roustant.shinyapps.io/lda-app/)
 
 You can also run them locally, using the R package shiny. Then use the notebook wikistatsApp.ipynb 
 
